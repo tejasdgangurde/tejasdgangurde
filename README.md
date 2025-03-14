@@ -16,7 +16,7 @@
 - 🔗 Connect Me on **[LinkedIn](https://linkedin.com/in/tejasdgangurde)**
 
   ### 👁‍🗨 What's Special about me?  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
 ### 🛠 Languages and Tools  
 <!-- Add icons for different tools -->
