@@ -26,7 +26,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/tejasadgangurde/tejasdgangurde/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/tejasdgangurde/tejasdgangurde/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasdgangurde&hide=contribs,prs)
