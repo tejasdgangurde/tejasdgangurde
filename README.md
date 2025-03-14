@@ -1,6 +1,3 @@
-Profile views
-Profile views
-4,793
 🙋‍♂️ About Me
 - 👋 Hi, I’m Tejas Gangurde
 - 👀 I’m interested in Cloud Computing
