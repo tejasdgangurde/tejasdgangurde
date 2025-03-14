@@ -26,7 +26,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasdgangurde&hide=contribs,prs)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasdgangurde&hide=contribs,prs&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasdgangurde&hide=contribs,prs)
 
 <!---
 tejpatil96k/tejpatil96k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
