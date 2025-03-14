@@ -11,7 +11,7 @@
 👁‍🗨 What's Special about me?
       Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
-### 🛠 Languages and Tools  
+🛠 Languages and Tools  
 <!-- Add icons for different tools -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,kubernetes,jenkins,ansible,terraform,prometheus,grafana,git,github,githubactions,wordpress,php,linux,debian,windows,powershell,mysql,postgres,visualstudio,pycharm,bash,maven,nginx,ubuntu,npm,py,vim,nodejs,flask,linkedin,gmail," />
