@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋 I'm Tejas Gangurde</h1>
+<h3 align="center">A passionate AWS, DevOps Engineer from Maharashtra,India</h3>
 ### 🙋‍♂️ About Me
 - 👋 Hi, I’m Tejas Gangurde
 - 👀 I’m interested in Cloud Computing
