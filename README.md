@@ -24,17 +24,7 @@
   <img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,kubernetes,jenkins,ansible,terraform,prometheus,grafana,git,github,githubactions,wordpress,php,linux,debian,windows,powershell,mysql,postgres,vscode,pycharm,bash,maven,nginx,ubuntu,npm,py,vim,nodejs,flask,linkedin,gmail," />
 </p>
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasdgangurde&show_icons=true&theme=radical&text_color=87CEEB" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdgangurde&theme=radical" />
-</p>
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasdgangurde&theme=dark" />
-</p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasdgangurde)](https://github.com/tejasdgangurde/github-readme-stats)
 
 <!---
 tejpatil96k/tejpatil96k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
