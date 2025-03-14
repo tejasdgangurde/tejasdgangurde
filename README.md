@@ -8,7 +8,7 @@
 
 ### 🙋‍♂️ About Me
 - 👀 I’m interested in **Cloud Computing.**
-- 🌱 I had recently Completed **Master of Cloud Architect.**
+- 🌱 I had recently Completed **Master of Cloud Architect Training Course.**
 - 😎 I have better hands on experience on **AWS Services, DevOps Tools, Linux, SQL.**
 - 🥋 I'm a very Passionate For Cloud and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
