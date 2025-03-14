@@ -1,8 +1,8 @@
 🙋‍♂️ About Me
 - 👋 Hi, I’m Tejas Gangurde
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently pursuing Master of Cloud Architect
-- 😎 I have better hands on experience on AWS services, Linux, SQL, DevOps.
+- 🌱 I had recently Completed Master of Cloud Architect
+- 😎 I have better hands on experience on AWS Services, , DevOps Tools, Linux, SQL.
 - 🥋 I'm a very Passionate For Cloud and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📫 How to reach me tejasdgangurde@gmail.com
