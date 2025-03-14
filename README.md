@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋 I'm Tejas Gangurde</h1>
 <h3 align="center">A passionate AWS, DevOps, Cloud Engineer from Maharashtra,India</h3>
 
+### 🌟 Profile Views  
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Profile%20Views-5000-blue" alt="Profile Views Counter" />
+</p>
+
 ### 🙋‍♂️ About Me
 - 👀 I’m interested in Cloud Computing
 - 🌱 I had recently Completed **Master of Cloud Architect.**
