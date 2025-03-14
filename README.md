@@ -27,7 +27,7 @@
 ### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejasdgangurde&show_icons=true&theme=radical&text_color=87CEEB" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdgangurde&theme=radical&text_color=87CEEB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdgangurde&theme=radical" />
 </p>
 
 
