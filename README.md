@@ -14,7 +14,7 @@
 ### 🛠 Languages and Tools  
 <!-- Add icons for different tools -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,promethues,grafana,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,grafana,git,github,mysql" />
 </p>
 
 <!---
