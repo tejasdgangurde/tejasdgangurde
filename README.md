@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tejas Gangurde</h1>
-<h3 align="center">A passionate AWS, DevOps Engineer from Maharashtra,India</h3>
+<h3 align="center">A passionate AWS, DevOps, Cloud Engineer from Maharashtra,India</h3>
 
 ### 🙋‍♂️ About Me
-- 👋 Hi, I’m Tejas Gangurde
 - 👀 I’m interested in Cloud Computing
 - 🌱 I had recently Completed Master of Cloud Architect
 - 😎 I have better hands on experience on AWS Services, , DevOps Tools, Linux, SQL.
