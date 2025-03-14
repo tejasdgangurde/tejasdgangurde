@@ -6,7 +6,6 @@
 - 🥋 I'm a very Passionate For Cloud and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📫 How to reach me tejasdgangurde@gmail.com
-- 🔗 Connect Me on LinkedIn
 - 🔗 Connect Me on https://www.linkedin.com/in/tejasdgangurde
 
 👁‍🗨 What's Special about me?
