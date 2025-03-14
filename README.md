@@ -7,7 +7,7 @@
 - 😎 I have better hands on experience on **AWS Services, , DevOps Tools, Linux, SQL.**
 - 🥋 I'm a very Passionate For Cloud and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📫 How to reach me ***[tejasdgangurde@gmail.com](mailto:tejasdgangurde@gmail.com)****
+- 📫 How to reach me ***[tejasdgangurde@gmail.com](mailto:tejasdgangurde@gmail.com)***
 - 🔗 Connect Me on **[LinkedIn](https://linkedin.com/in/tejasdgangurde)**
 
 👁‍🗨 What's Special about me?
