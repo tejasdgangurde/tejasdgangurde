@@ -24,11 +24,6 @@
   <img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,kubernetes,jenkins,ansible,terraform,prometheus,grafana,git,github,githubactions,wordpress,php,linux,debian,windows,powershell,mysql,postgres,vscode,pycharm,bash,maven,nginx,ubuntu,npm,py,vim,nodejs,flask,linkedin,gmail," />
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/tejasdgangurde/tejasdgangurde/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasdgangurde&hide=contribs,prs)
 
 <!---
