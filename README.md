@@ -34,7 +34,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasdgangurde&theme=dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasdgangurde&theme=dark" />
 </p>
 
 <!---
