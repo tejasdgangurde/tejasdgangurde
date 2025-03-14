@@ -18,6 +18,9 @@
 👁‍🗨 What's Special about me?
   Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
+  ### 👁‍🗨 What's Special about me?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+
 ### 🛠 Languages and Tools  
 <!-- Add icons for different tools -->
 <p align="left">
