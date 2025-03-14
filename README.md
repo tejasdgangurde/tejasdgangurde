@@ -30,6 +30,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasdgangurde&theme=radical" />
 </p>
 
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasdgangurde&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasdgangurde&theme=dark" />
+</p>
 
 <!---
 tejpatil96k/tejpatil96k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
