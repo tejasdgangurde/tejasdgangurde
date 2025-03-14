@@ -11,6 +11,12 @@
 👁‍🗨 What's Special about me?
       Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 
+### 🛠 Languages and Tools  
+<!-- Add icons for different tools -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,promethues,grafana,git,github,mysql" />
+</p>
+
 <!---
 tejpatil96k/tejpatil96k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
