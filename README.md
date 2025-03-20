@@ -21,7 +21,7 @@
 ### 🛠 Languages and Tools  
 <!-- Add icons for different tools -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,kubernetes,jenkins,ansible,terraform,prometheus,grafana,git,github,githubactions,wordpress,php,linux,debian,windows,powershell,mysql,postgres,vscode,pycharm,bash,maven,nginx,ubuntu,npm,py,vim,nodejs,flask,linkedin,gmail" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,terraform,prometheus,grafana,git,github,githubactions,wordpress,php,linux,debian,windows,powershell,mysql,postgres,dynamodb,vscode,pycharm,bash,maven,nginx,ubuntu,npm,py,vim,nodejs,flask,linkedin,gmail" />
 </p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tejasdgangurde&hide=contribs,prs)
