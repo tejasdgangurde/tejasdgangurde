@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Tejas Gangurde</h1>
-<h3 align="center">A passionate AWS, DevOps, Cloud Engineer from Maharashtra,India</h3>
+<h3 align="center">A passionate AWS, DevOps, Cloud Engineer from Maharashtra, India</h3>
 
 ### 🌟 Profile Views  
 <p align="left"> 
