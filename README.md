@@ -9,6 +9,7 @@
 ### 🙋‍♂️ About Me
 - 👀 I’m interested in **Cloud Computing.**
 - 🌱 I had recently Completed **Master in Cloud Architect Training Course.**
+- 💻 I am currently working at **Tridiagonal Solutions Pvt. Ltd. as a Cloud Engineer Intern.**
 - 😎 I have better hands on experience on **AWS Services, DevOps Tools, Linux, SQL.**
 - 🥋 I'm a very Passionate For Cloud and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas ❤.
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
