@@ -3,7 +3,7 @@
 
 ### 🌟 Profile Views  
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Profile%20Views-5000-blue" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/badge/Profile%20Views-10000-blue" alt="Profile Views Counter" />
 </p> 
 
 ### 🙋‍♂️ About Me
