@@ -24,6 +24,11 @@ Strong in troubleshooting, system reliability, and cloud cost optimization
 📫 Reach me: ***[tejasdgangurde@gmail.com](mailto:tejasdgangurde@gmail.com)***
 🔗 Connect on **[LinkedIn](https://linkedin.com/in/tejasdgangurde)**
 
+⚡ What Sets Me Apart
+Fast learner with the ability to quickly adapt to new technologies
+Strong problem-solving mindset with real production experience
+Focused on building scalable, resilient, and efficient systems
+
 ### 🛠 Languages and Tools  
 <!-- Add icons for different tools -->
 <p align="left">
