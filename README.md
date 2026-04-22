@@ -7,17 +7,22 @@
 </p> 
 
 ### 🙋‍♂️ About Me
-- 👀 I’m interested in **Cloud Computing.**
-- 🌱 I had recently Completed **Master in Cloud Architect Training Course.**
-- 💻 I am currently working at **Tridiagonal.AI Pvt. Ltd. as a Cloud Engineer.**
-- 😎 I have better hands on experience on **AWS Services, DevOps Tools, Linux, SQL.**
-- 🥋 I'm a very Passionate For Cloud and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas ❤.
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📫 How to reach me ***[tejasdgangurde@gmail.com](mailto:tejasdgangurde@gmail.com)***
-- 🔗 Connect Me on **[LinkedIn](https://linkedin.com/in/tejasdgangurde)**
+Cloud & DevOps Engineer with hands-on experience in building and managing scalable AWS and Industrial IoT platforms. Currently working at Tridiagonal AI, contributing to production-grade data pipelines and real-time data processing systems.
 
-### 👁‍🗨 What's Special about me?
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+💡 Skilled in AWS, DevOps, and Automation:
+AWS (IoT SiteWise, Greengrass, Lambda, ECS, S3, DynamoDB)
+Docker, Kubernetes
+Terraform (Infrastructure as Code)
+CI/CD (Jenkins, CodePipeline, GitHub Actions)
+Linux & SQL
+
+🏆 Highlights:
+Received multiple client appreciations for delivering reliable solutions and resolving critical production issues
+Strong in troubleshooting, system reliability, and cloud cost optimization
+🌱 Continuous learner with a strong passion for cloud computing, automation, and solving real-world problems
+
+📫 Reach me: ***[tejasdgangurde@gmail.com](mailto:tejasdgangurde@gmail.com)***
+🔗 Connect on **[LinkedIn](https://linkedin.com/in/tejasdgangurde)**
 
 ### 🛠 Languages and Tools  
 <!-- Add icons for different tools -->
